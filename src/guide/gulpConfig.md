@@ -1,6 +1,6 @@
 # Gulp Config
 
-Arctic Admin provides you build tools to streamline your production build and compilation process. We have configured code compilation, asset management, source and distribution path in `gulp.config.js`. You can edit the configuraion as your requirements.
+Octavia Admin provides you build tools to streamline your production build and compilation process. We have configured code compilation, asset management, source and distribution path in `gulp.config.js`. You can edit the configuraion as your requirements.
 
 ## gulp commands
 

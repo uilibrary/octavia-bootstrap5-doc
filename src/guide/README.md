@@ -10,10 +10,7 @@ This library integrates [bootstrap 5](https://getbootstrap.com/docs/5.0/getting-
 - Bootstrap 5
 - Gulp
 
-
-Demo: [Atrox Pug Demo](https://octavia-vue.netlify.app/landingpage).
-
-
+Demo: [Octavia Pug Demo](https://octavia-vue.netlify.app/landingpage).
 
 ## Plugins
 
@@ -22,7 +19,3 @@ Demo: [Atrox Pug Demo](https://octavia-vue.netlify.app/landingpage).
 - dragula
 - vanilla-datatables
 - svgmap
-
-
-
-
