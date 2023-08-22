@@ -10,7 +10,7 @@ This library integrates [bootstrap 5](https://getbootstrap.com/docs/5.0/getting-
 - Bootstrap 5
 - Gulp
 
-Demo: [Octavia Pug Demo](https://octavia-vue.netlify.app/landingpage).
+Demo: [Octavia Pug Demo](https://octavia-html.netlify.app/dashboards/learningmanagement).
 
 ## Plugins
 
