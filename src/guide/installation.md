@@ -6,7 +6,7 @@
 - Bootstrap 5
 - Gulp
 
-Demo: [Octavia Pug Demo](https://octavia-vue.netlify.app/landingpage).
+Demo: [Octavia Pug Demo](https://octavia-html.netlify.app/dashboards/learningmanagement).
 
 ## Manual installation
 
